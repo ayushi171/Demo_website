@@ -1,0 +1,38 @@
+/* #myCarousel{
+    height: 480px;
+}
+
+.carousel-item{
+    height: 500px;
+    object-fit: cover;
+} */
+#myCarousel{
+    height: 595px;
+    width: 100%;
+  }
+  
+  .carousel-item{
+    height: 700px;
+  }
+  .container_collaboration{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 20px;
+    gap: 10px; 
+  }
+  .box{
+    /* display: flex; */
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    border: 1px solid black;
+  }
+  .box img{
+    height: 100%;
+    max-width: 100%;
+  }
+
+  .heroheading{
+    text-emphasis-color: blue;
+  }
